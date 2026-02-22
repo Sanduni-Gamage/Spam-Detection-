@@ -1,4 +1,5 @@
-# 📧 Email Spam Detection - NLP Classification Project
+# 📧 Email Spam Detection 
+This is a NLP Classification Project
 
 A machine learning project that classifies emails as **Spam** or **Ham** (not spam) using Natural Language Processing (NLP) techniques and multiple classifiers.
 
